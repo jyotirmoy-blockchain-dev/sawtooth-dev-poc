@@ -1,0 +1,17 @@
+{
+  "name": "sawtooth-nsf-dev",
+  "version": "1.0.0",
+  "description": "A small project sawtooth transaction function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jyotirmoy Nath",
+  "license": "ISC",
+  "dependencies": {
+    "cbor": "^4.1.1",
+    "request": "^2.88.0",
+    "sawtooth-sdk": "^1.0.5",
+    "secp256k1": "^3.5.2"
+  }
+}
